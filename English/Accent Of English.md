@@ -162,3 +162,78 @@ Go there right away
 Before you say the first word, get into position  
 After you have said that first wrod,  
 get immediately into positon for the 2nd word  
+
+At the end of each word, you move immediately
+to the position for the next word  
+
+```
+H  
+open mouth to 40%  
+```  
+
+```
+L  
+tip of tongue to 30 degrees where teeth and
+gum meet mouth almost closed - open 5%  
+```
+
+```
+R S Y  
+relax your mouth totally
+each word has a lead in a long beginning  
+mouth relax and slightly open 10%  
+```
+
+```
+W  
+make a round kissing position
+small round hole in the middle  
+keep lips in close  
+move gently from W to vowel
+```
+
+
+## Practice Sentences
+
+### sentences 1
+My frind sat there looking out the window at the incredible blue sky.  
+He had been brought up in Los Angeles   
+and never remembered seeing anything as beautiful.  
+He turned to me with a look on his face  
+that I will never forget.  
+
+My frind / sat there / looking out / the window
+/ at / the incredible / blue sky.  
+He / had been / brought up / in / Los Angeles   
+and never / remembered / seeing / anything / as beautiful.  
+He turned / to me / with / a look / on his face
+/ that / I will never / forget.  
+
+### sentences 2
+The police were chasing this car  
+that was zooming down the highway at over 120 k/s an hour.  
+Their sirens were screaming.  
+I almost didn't have time to get out of the way.  
+It seems to me that there must be a better way of apprehending guys like  
+that putting people like me in danger is net my cup of tea.  
+
+### sentences 3
+Why does my sister love Mozart so much.  
+I see her sitting on her chair with her earphones on
+and a huge smile on her face.  
+She adores the symphonies and piano concertos.  
+
+### sentences 4
+When the tv show came on i was amazed at  
+how quickly james was completely absorbed in the program.  
+I could have set off a time bomb right there in the living room  
+and he wouldn't even have noticed it.  
+His dad wishes he had the same concentration  
+when it comes to his homework.
+
+### sentences 5
+My daughter and son called me last night.  
+It was such a beautiful chance to tell them how much i love and miss them.  
+It's so difficult when they're so far away.  
+But I've learned in life  
+that sometimes in life things don't always trun out the way you want.  
