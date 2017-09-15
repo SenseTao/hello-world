@@ -106,9 +106,9 @@ coming out of a dragon's mouth
 speak 1 or 2 or 3 words at a time
 
 speaking in clumps  
-If i knew why you did that  
-If / i knew / why / you did / that  
-If / i knew / why / you did that  
+If I knew why you did that  
+If / I knew / why / you did / that  
+If / I knew / why / you did that  
 
 1st word is very short - only 10/20 %  
 2nd is much longer - 80/90 %  
@@ -224,7 +224,7 @@ and a huge smile on her face.
 She adores the symphonies and piano concertos.  
 
 ### sentences 4
-When the tv show came on i was amazed at  
+When the tv show came on I was amazed at  
 how quickly james was completely absorbed in the program.  
 I could have set off a time bomb right there in the living room  
 and he wouldn't even have noticed it.  
@@ -233,7 +233,7 @@ when it comes to his homework.
 
 ### sentences 5
 My daughter and son called me last night.  
-It was such a beautiful chance to tell them how much i love and miss them.  
+It was such a beautiful chance to tell them how much I love and miss them.  
 It's so difficult when they're so far away.  
 But I've learned in life  
 that sometimes in life things don't always trun out the way you want.  
