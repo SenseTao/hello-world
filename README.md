@@ -1,5 +1,5 @@
 # hello-world
-Just anther repository
+My first repository on GitHub! 
 
  > Learn More, Study Less.  
 
